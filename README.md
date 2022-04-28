@@ -36,6 +36,6 @@ You will very likely not be able to do this unless you read a good part of at le
 6. Can you find out what part of the resulting code was created by what character? You could browse commits in *GitHub*, you could use *GitHub*'s "blame" function, and you can use `git blame`. Get familiar with all of them.
 
 ### Rendering
-7. You whould now be able to load `sierpinski.Rmd` in your RStudio session and render it, getting a nice animation. Your result should look like this:
+7. You should now be able to load `sierpinski.Rmd` in your RStudio session and render it, getting a nice animation. Your result should look like this:
 
   ![Sierpinski Triangle](sier.png)
